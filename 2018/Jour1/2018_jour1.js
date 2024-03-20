@@ -8,4 +8,4 @@ fs.writeFileSync("test.txt", "Hello World", "utf8");
 //   return dataSplit;
 // }
 
-console.log("test")
+console.log("test");
